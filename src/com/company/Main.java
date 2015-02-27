@@ -9,6 +9,15 @@ public class Main {
 
     }
 
+    public static boolean logicalExpressionEvaluator(String expression){
+        /**
+         * A function that resolves a logical expression
+         */
+        ArrayList<Token> tokens = lexicalAnalyzer(expression);
+
+        return false;
+    }
+
     public static ArrayList<Token> lexicalAnalyzer(String expression){
         ArrayList<Token> tokens = new ArrayList<Token>();
         Token lastToken = null;
@@ -236,7 +245,7 @@ public class Main {
                         if(expression.length() > index + 1){
                             nextChar = Character.toString(expression.charAt(index+1));
                         }
-                        if(nextChar.equals("\\") || nextChar.equals("\"")){
+                        if(nextChar.equals("\"")){
                             str = str + nextChar;
                             index++;
                         }

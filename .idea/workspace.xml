@@ -28,10 +28,10 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27593818" vertical-offset="0" max-vertical-offset="7250">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.406181" vertical-offset="32" max-vertical-offset="7475">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
-                <element signature="e#268#275#0" expanded="true" />
+                <element signature="e#515#522#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -298,6 +298,9 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="94fe788b-777f-4593-b1e7-f6b1ee5771d0" name="Default" comment="" />
@@ -376,10 +379,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27593818" vertical-offset="0" max-vertical-offset="7250">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.406181" vertical-offset="32" max-vertical-offset="7475">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#268#275#0" expanded="true" />
+            <element signature="e#515#522#0" expanded="true" />
           </folding>
         </state>
       </provider>
